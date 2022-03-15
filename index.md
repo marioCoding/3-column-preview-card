@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## marioCoding
 
 You can use the [editor on GitHub](https://github.com/marioCoding/3-column-preview-card/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
